@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: EasyFolio
-Template URL: https://bootstrapmade.com/easyfolio-bootstrap-portfolio-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This Is My website Portofolio 
+I'm open to collaboration, internships, or discussions about AI, Data Science, or technology development. Let's connect!
